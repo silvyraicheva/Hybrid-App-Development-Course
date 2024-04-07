@@ -13,7 +13,7 @@ function validate() {
         let email = document.getElementById("email");
         let pass = document.getElementById("password");
         let pass1 = document.getElementById("confirm-password");
-        let isCompany = document.getElementById("company").value;
+        // let isCompany = document.getElementById("company").value;
         let companyNum = document.getElementById("companyNumber");
 
         let isValid = true;
